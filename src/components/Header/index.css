@@ -1,0 +1,9 @@
+.header h1 {
+    color: whitesmoke;
+}
+
+.header {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}

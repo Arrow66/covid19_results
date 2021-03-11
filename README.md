@@ -1,0 +1,20 @@
+# Covid 19 Report App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Functionality 
+  * List state wise results in a table
+  * reveal district wise data on clicking + button
+  * pagination
+  * search functionality on  district wise table 
+  
+
